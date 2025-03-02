@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 About Me  
 
-<!--
-**nikolinarogan/nikolinarogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm **Nikolina**, a passionate **Software Developmenr** who loves solving problems and building innovative projects. I enjoy exploring new technologies, working on **team-based projects**, and continuously challenging myself to improve.  
 
-Here are some ideas to get you started:
+## 💡 What Drives Me?  
+🔹 **Curiosity** – I love diving into new programming concepts and experimenting with different frameworks.  
+🔹 **Challenges** – The tougher the problem, the more exciting it is to solve!  
+🔹 **Collaboration** – I believe great ideas come from teamwork and knowledge-sharing.  
+🔹 **Continuous Learning** – Technology evolves fast, and I enjoy staying ahead by learning new tools and methodologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Interests  
+- 🔥 **Software Development** – Backend, Frontend, and everything in between!  
+- 🤖 **AI & Machine Learning** – Exploring algorithms and automation.  
+
+## 🛠 Skills  
+### 💻 Programming Languages  
+- C# | C++ | Java | JavaScript  
+
+### 🌐 Frontend  
+- Angular | Vue 
+
+
