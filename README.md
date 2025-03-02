@@ -1,6 +1,6 @@
 # 🚀 About Me  
 
-👋 Hi there! I'm **Nikolina**, a passionate **Software Developmenr** who loves solving problems and building innovative projects. I enjoy exploring new technologies, working on **team-based projects**, and continuously challenging myself to improve.  
+👋 Hi there! I'm **Nikolina**, a passionate **Software Developmer** who loves solving problems and building innovative projects. I enjoy exploring new technologies, working on **team-based projects**, and continuously challenging myself to improve.  
 
 ## 💡 What Drives Me?  
 🔹 **Curiosity** – I love diving into new programming concepts and experimenting with different frameworks.  
