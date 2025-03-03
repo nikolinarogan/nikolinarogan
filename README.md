@@ -10,13 +10,12 @@
 
 ## 🎯 My Interests  
 - 🔥 **Software Development** – Backend, Frontend, and everything in between!  
-- 🤖 **AI & Machine Learning** – Exploring algorithms and automation.  
 
 ## 🛠 Skills  
 ### 💻 Programming Languages  
 - C# | C++ | Java | JavaScript  
 
-### 🌐 Frontend  
-- Angular | Vue 
+### 🌐 Frameworks  
+- Angular | Vue | Spring Boot | ASP.NET
 
 
